@@ -1,8 +1,8 @@
 package org.example;
 
 public class Radio {
-    public int numStation;
-    public int volume;
+    private int numStation;
+    private int volume;
 
     public int getNumStation() {
 
